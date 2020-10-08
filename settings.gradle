@@ -1,0 +1,3 @@
+include ':ArtistIM'
+include ':app'
+rootProject.name = "ArtistIMSdk"
